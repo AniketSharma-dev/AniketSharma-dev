@@ -1,27 +1,40 @@
+Here's the updated README file with the complete tech stack:
+
+---
+
 <h2 align="center">Hi 👋! I'm Aniket Sharma</h2>
 <h3 align="center">A Software Engineer</h3>
 
 ---
 
 ## 💫 About Me:
-- 🔭 I’m currently working on various web development projects using the MERN stack.
-- 👯 I’m looking to collaborate on innovative and impactful software projects.
-- 🤝 I’m looking for help with advanced data analysis and optimization.
-- 🌱 I’m currently learning advanced JavaScript and exploring cloud technologies.
-- ⚡ Fun fact: I love solving puzzles and enjoy experimenting with new coding challenges!
+- 🔭 Currently working on various web development projects using the MERN stack.
+- 👯 Seeking to collaborate on innovative and impactful software projects.
+- 🤝 Looking for help with advanced data analysis and optimization.
+- 🌱 Exploring advanced JavaScript and cloud technologies.
+- ⚡ Fun fact: I enjoy solving puzzles and experimenting with new coding challenges!
 
 ---
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
---- 
+---
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=aniketsharmadev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aniketsharmadev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsharmadev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aniketsharmadev&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketsharmadev&theme=dark&hide_border=false" height="150" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsharmadev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="Top Languages"/>
+</div>
 
 ---
 
@@ -32,8 +45,11 @@
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aniketsharmadev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🔝 Top Contributed Repositories:
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=aniketsharmadev&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
+</div>
+
 ---
 
 ## 🌐 Connect with Me:
@@ -48,11 +64,13 @@
 
 ---
 
-## 🐍 Watch My Contribution Snake:
+## 🐍 Contribution Snake:
 <div align="center">
-  <img src="https://raw.githubusercontent.com/CRACKING47/CRACKING47/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/CRACKING47/CRACKING47/output/snake.svg" alt="Contribution Snake"/>
 </div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=CRACKING47&icon=7&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=aniketsharmadev&icon=7&color=11)](https://visitcount.itsvg.in)
+
+---
