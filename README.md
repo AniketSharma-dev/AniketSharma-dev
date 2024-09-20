@@ -16,8 +16,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aniketsharmadev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 
 
@@ -26,12 +25,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aniketsharmadev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsharmadev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-## 🏆 GitHub Trophies:
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CRACKING47&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</div>
 
 ---
 
@@ -42,11 +35,8 @@
 
 ---
 
-## 🔝 Top Contributed Repo:
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=CRACKING47&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
-</div>
-
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=aniketsharmadev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ---
 
 ## 🌐 Connect with Me:
