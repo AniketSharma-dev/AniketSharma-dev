@@ -54,10 +54,10 @@
 
 ## 🌐 Connect with Me:
 <div align="center">
-  <a href="https://www.linkedin.com/in/aniketsharmadev" target="_blank">
+  <a href="https://www.linkedin.com/in/aniketsharma-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn logo" />
   </a>
-  <a href="mailto:aniket.sharma@example.com" target="_blank">
+  <a href="mailto:aniketsharma.xo@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail logo" />
   </a>
 </div>
