@@ -1,5 +1,3 @@
-Here's the updated README file with the complete tech stack:
-
 ---
 
 <h2 align="center">Hi 👋! I'm Aniket Sharma</h2>
