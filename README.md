@@ -1,4 +1,3 @@
----
 <h2 align="center">Hi 👋! I'm Aniket Sharma</h2>
 <h3 align="center">A Software Engineer</h3>
 
@@ -28,9 +27,9 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniketsharmadev&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketsharmadev&theme=dark&hide_border=false" height="150" alt="GitHub Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsharmadev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aniket-Shamra&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aniket-Shamra&theme=dark&hide_border=false" height="150" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket-Shamra&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="Top Languages"/>
 </div>
 
 ---
@@ -44,7 +43,7 @@
 
 ## 🔝 Top Contributed Repositories:
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=aniketsharmadev&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=Aniket-Shamra&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
 </div>
 
 ---
@@ -68,6 +67,6 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=aniketsharmadev&icon=7&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Aniket-Shamra&icon=7&color=11)](https://visitcount.itsvg.in)
 
 ---
