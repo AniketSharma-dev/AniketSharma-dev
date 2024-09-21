@@ -58,15 +58,6 @@
   </a>
 </div>
 
----
-
-## 🐍 Contribution Snake:
-<div align="center">
-  <img src="https://raw.githubusercontent.com/CRACKING47/CRACKING47/output/snake.svg" alt="Contribution Snake"/>
-</div>
-
----
-
 [![](https://visitcount.itsvg.in/api?id=Aniket-Shamra&icon=7&color=11)](https://visitcount.itsvg.in)
 
 ---
