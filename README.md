@@ -27,9 +27,9 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aniket-Shamra&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aniket-Shamra&theme=dark&hide_border=false" height="150" alt="GitHub Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket-Shamra&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AniketSharma-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AniketSharma-dev&theme=dark&hide_border=false" height="150" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AniketSharma-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="Top Languages"/>
 </div>
 
 ---
@@ -43,7 +43,7 @@
 
 ## 🔝 Top Contributed Repositories:
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Aniket-Shamra&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=AniketSharma-dev&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
 </div>
 
 ---
@@ -58,6 +58,15 @@
   </a>
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=Aniket-Shamra&icon=7&color=11)](https://visitcount.itsvg.in)
+---
+
+## 🐍 Contribution Snake:
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AniketSharma-dev/AniketSharma-dev/output/snake.svg" alt="Contribution Snake"/>
+</div>
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=AniketSharma-dev&icon=7&color=11)](https://visitcount.itsvg.in)
 
 ---
