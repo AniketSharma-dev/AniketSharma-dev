@@ -82,7 +82,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="40" height="40" />
   </a>
   &nbsp; &nbsp;  <!-- Add spaces -->
-  <a href="https://github.com/your-github-username" target="_blank">
+  <a href="https://github.com/AniketSharma-dev" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" alt="GitHub" width="40" height="40" />
   </a>
   &nbsp; &nbsp;  <!-- Add spaces -->
